@@ -1,0 +1,2 @@
+esta es la segunda prueba para probar git
+aqui vemos el agregar un segundo archivo
