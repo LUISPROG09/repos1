@@ -1,0 +1,2 @@
+primer  doc para inicializar pruebas
+y probar el git
